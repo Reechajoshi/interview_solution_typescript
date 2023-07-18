@@ -15,7 +15,7 @@
     "version": "npm run lint-fix && git add -A src",
     "postversion": "git push && git push --tags"
   },
-  "author": "",
+  "author": "Richa J",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.5.3",
